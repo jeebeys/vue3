@@ -1,7 +1,8 @@
 {
-  "name": "template",
+  "name": "{{name}}",
   "private": true,
-  "version": "0.0.0",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "type": "module",
   "scripts": {
     "dev": "vite",
