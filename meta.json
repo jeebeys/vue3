@@ -16,7 +16,7 @@
       "type": "string",
       "required": false,
       "message": "项目描述",
-      "default": "暂时"
+      "default": "无"
     },
     "author": {
       "type": "string",
